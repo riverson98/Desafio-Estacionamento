@@ -1,5 +1,5 @@
 # Desafio-Estacionamento
-Sistema feito em console para consolidação dos conhenhecimentos adquiridos na formação .NET DEVELOPER da DIO.NET
+Sistema feito em console para consolidação dos conhenhecimentos adquiridos na formação .NET DEVELOPER da DIO.ME
 
 ## Inicialização do sistema
 ![image](https://github.com/riverson98/Sistema-de-estacionamento-c-/assets/89596532/2c3e23ac-4976-45d7-a261-21eafa12fe43) 

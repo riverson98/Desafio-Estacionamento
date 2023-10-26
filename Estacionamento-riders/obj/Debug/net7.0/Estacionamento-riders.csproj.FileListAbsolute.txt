@@ -1,0 +1,14 @@
+C:\Users\river\RiderProjects\Estacionamento-riders\Estacionamento-riders\bin\Debug\net7.0\Estacionamento-riders.exe
+C:\Users\river\RiderProjects\Estacionamento-riders\Estacionamento-riders\bin\Debug\net7.0\Estacionamento-riders.deps.json
+C:\Users\river\RiderProjects\Estacionamento-riders\Estacionamento-riders\bin\Debug\net7.0\Estacionamento-riders.runtimeconfig.json
+C:\Users\river\RiderProjects\Estacionamento-riders\Estacionamento-riders\bin\Debug\net7.0\Estacionamento-riders.dll
+C:\Users\river\RiderProjects\Estacionamento-riders\Estacionamento-riders\bin\Debug\net7.0\Estacionamento-riders.pdb
+C:\Users\river\RiderProjects\Estacionamento-riders\Estacionamento-riders\obj\Debug\net7.0\Estacionamento-riders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\river\RiderProjects\Estacionamento-riders\Estacionamento-riders\obj\Debug\net7.0\Estacionamento-riders.AssemblyInfoInputs.cache
+C:\Users\river\RiderProjects\Estacionamento-riders\Estacionamento-riders\obj\Debug\net7.0\Estacionamento-riders.AssemblyInfo.cs
+C:\Users\river\RiderProjects\Estacionamento-riders\Estacionamento-riders\obj\Debug\net7.0\Estacionamento-riders.csproj.CoreCompileInputs.cache
+C:\Users\river\RiderProjects\Estacionamento-riders\Estacionamento-riders\obj\Debug\net7.0\Estacionamento-riders.dll
+C:\Users\river\RiderProjects\Estacionamento-riders\Estacionamento-riders\obj\Debug\net7.0\refint\Estacionamento-riders.dll
+C:\Users\river\RiderProjects\Estacionamento-riders\Estacionamento-riders\obj\Debug\net7.0\Estacionamento-riders.pdb
+C:\Users\river\RiderProjects\Estacionamento-riders\Estacionamento-riders\obj\Debug\net7.0\Estacionamento-riders.genruntimeconfig.cache
+C:\Users\river\RiderProjects\Estacionamento-riders\Estacionamento-riders\obj\Debug\net7.0\ref\Estacionamento-riders.dll

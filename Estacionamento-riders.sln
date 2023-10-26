@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estacionamento-riders", "Estacionamento-riders\Estacionamento-riders.csproj", "{BBCCAFAA-7BD3-4E3F-A6DD-A582C62B0156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBCCAFAA-7BD3-4E3F-A6DD-A582C62B0156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCCAFAA-7BD3-4E3F-A6DD-A582C62B0156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCCAFAA-7BD3-4E3F-A6DD-A582C62B0156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCCAFAA-7BD3-4E3F-A6DD-A582C62B0156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
